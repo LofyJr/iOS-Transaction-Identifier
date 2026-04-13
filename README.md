@@ -97,6 +97,11 @@ Após mapear todos os campos, sua automação está pronta! Toque no ícone de c
 ## [Passo 10]
 <img width="585" height="1266" alt="Captura de Tela 2026-04-13 à(s) 14 02 35" src="https://github.com/user-attachments/assets/2d6079a9-e6be-47fa-82a3-cf7f2f6289a0" />
 
+### ✅ Em Prod!
+Após qualquer compra realizada com os cartões cadastrados, será possível gerenciá-la diretamente no aplicativo.
+<img width="585" height="1266" alt="IMG_1542" src="https://github.com/user-attachments/assets/6ab4a65f-5565-46a9-a916-1a3fbad4a71c" />
+<img width="585" height="1266" alt="IMG_1543" src="https://github.com/user-attachments/assets/c0360791-74da-4dba-8dbd-1f46308b86ab" />
+
 ---
 
 ## 🏗️ Estrutura do Código
